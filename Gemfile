@@ -43,6 +43,8 @@ group :development, :test do
   gem 'pry-rails'
   gem 'pry-byebug'
   gem 'pry-stack_explorer'
+
+  gem 'sqlite3'
 end
 
 group :development do
